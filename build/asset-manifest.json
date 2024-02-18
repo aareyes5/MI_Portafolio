@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.14b27b1b.js",
+    "static/js/453.2a12872b.chunk.js": "/static/js/453.2a12872b.chunk.js",
+    "static/media/consultorio.png": "/static/media/consultorio.d71b141d5364cae8be7b.png",
+    "static/media/tareas.png": "/static/media/tareas.b617eee58d80a12bf3d7.png",
+    "static/media/rutinas.jpg": "/static/media/rutinas.68b40fa6b8c91dd8d279.jpg",
+    "static/media/inventario.png": "/static/media/inventario.c9fdd53a61c18afef391.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.14b27b1b.js.map": "/static/js/main.14b27b1b.js.map",
+    "453.2a12872b.chunk.js.map": "/static/js/453.2a12872b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14b27b1b.js"
+  ]
+}
